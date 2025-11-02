@@ -23,32 +23,6 @@ Sistema inteligente de atendimento automatizado para departamento de RH usando I
 - Atestados médicos
 - Horários de trabalho
 
-## 🛠️ Instalação Local
+---
 
-### Backend
-```bash
-cd backend
-npm install
-# Criar arquivo .env com GROQ_API_KEY
-npm run dev
-```
-
-### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-## 🌐 Deploy
-
-- Backend: Render
-- Frontend: Vercel
-
-## 📝 Licença
-
-MIT
-
-## 👤 Autor
-
-Desenvolvido por [Seu Nome]
+Desenvolvido por Ismael Brandão
